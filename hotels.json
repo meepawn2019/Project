@@ -1,10 +1,10 @@
 [
     {
         "name": "Capella Hotel",
-        "address": "11 Lê Phụng Hiểu, Tràng Tiền, Hoàn Kiếm, Hà Nội 100000",
+        "address": "capella hotel",
         "price": 6560000,
         "description": "",
-        "imageUrl": "https://luxuo.vn/wp-content/uploads/2020/01/20200201-Kh%C3%A1ch-s%E1%BA%A1n-Capella-Hanoi-1.jpg",
+        "imageUrl": "https://www.bensley.com/wp-content/uploads/2021/02/4257-1920x1280.jpg",
         "rooms": [
             {
                 "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
