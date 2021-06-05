@@ -1,7 +1,8 @@
 [
     {
         "name": "Capella Hotel",
-        "address": "capella hotel",
+        "address": "1 Lê Phụng Hiểu, Tràng Tiền, Hoàn Kiếm, Hà Nội",
+        "location": "capella hotel",
         "price": 6560000,
         "description": "",
         "imageUrl": "https://www.bensley.com/wp-content/uploads/2021/02/4257-1920x1280.jpg",
@@ -61,7 +62,8 @@
     {
         "name": "Hanoi Hotel",
         "price": 988000,
-        "address": "hanoi hotel",
+        "address": "D8 P. Giảng Võ, Giảng Võ, Ba Đình, Hà Nội",
+        "location": "hanoi hotel",
         "description": "Khách sạn Hà nội với nhiều năm kinh nghiệm xin được phục vụ",
         "imageUrl": "https://www.ahstatic.com/photos/1867_ho_00_p_1024x768.jpg",
         "rooms": [
@@ -114,8 +116,9 @@
         ]
     },
     {
-        "name": "hotel 3",
-        "address": "muong thanh grand ha long",
+        "name": "Khách sạn Mường Thanh",
+        "location": "muong thanh grand ha long",
+        "address": "Số 7 Lô 20, Đông, Thành phố Hạ Long, Quảng Ninh",
         "price": 621000,
         "description": "Chuỗi khách sạn Mường Thanh xin được phục vụ quý khách",
         "imageUrl": "https://q-cf.bstatic.com/images/hotel/max1024x768/209/209735787.jpg",
