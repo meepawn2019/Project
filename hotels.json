@@ -1,29 +1,29 @@
 [
     {
-        "name": "Hotel Recarlisonse",
-        "address": "capella hotel",
-        "price": 240,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imageUrl": "https://pix10.agoda.net/hotelImages/266491/-1/42dc0f937b61e241629aff6028ab81b6.jpg?s=1024x768",
+        "name": "Capella Hotel",
+        "address": "11 Lê Phụng Hiểu, Tràng Tiền, Hoàn Kiếm, Hà Nội 100000",
+        "price": 6560000,
+        "description": "",
+        "imageUrl": "https://luxuo.vn/wp-content/uploads/2020/01/20200201-Kh%C3%A1ch-s%E1%BA%A1n-Capella-Hanoi-1.jpg",
         "rooms": [
             {
                 "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
-                "name": "Standard Room"
+                "name": "Phòng thường"
             },
             {
                 "imageUrl": "https://www.donafilipahotel.com/media/3074549/dfh_premium_rooms_high-8.jpg?mode=crop-up&cropUpAlias=carousel&quality=70",
-                "name": "Premium Room"
+                "name": "Phòng hạng sang"
             },
             {
                 "imageUrl": "https://www.ggrasia.com/wp-content/uploads/2015/05/JW-Marriot-hotel-room-Galaxy-Macau-Phase-2-e1432637852679.jpg",
-                "name": "Deluxe Room"
+                "name": "Phòng VIP"
             }
         ],
         "reviews": [
             {
                 "message": "Very confortable rooms!!",
                 "user": "Nan",
-                "userImage": "https://www.dittolanding.org/templates/semantic/img/nan.jpg",
+                "userImage": "https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png",
                 "rate": 4
             },
             {
